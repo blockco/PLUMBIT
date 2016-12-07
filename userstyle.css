@@ -1,7 +1,7 @@
 #jumbo1{
   text-align: center;
   background-color: lightblue;
-  padding-top: 2cm;
+  padding-top: 1cm;
   margin-top: 0px;
   margin-bottom: 0px;
 }
@@ -11,8 +11,20 @@
   background-color: lightgreen;
   margin-top: 0px;
   margin-bottom: 0px;
+
 }
 
 #h1head{
+  font-size: 40px;
+}
+
+#h2head{
    font-size: 40px;
+   background-color: lightblue;
+     margin-bottom: 60px;
+}
+
+#h3head{
+   font-size: 30px;
+   background-color: lightblue;
 }
